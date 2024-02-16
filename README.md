@@ -35,7 +35,7 @@ This Python script generates individual barcode labels in PDF format, suitable f
 
 **Usage**
 
-1. **Prepare your data:** Create an Excel spreadsheet named `barcodes.xlsx` with the barcodes' numeric values in column A.
+1. **Prepare your data:** Create an Excel spreadsheet named `barcodes.xlsx` or download the one provided with the barcodes' numeric values in column A.
 2. **Download or clone the script:** Download the `barcodes.py` script from your repository or clone the entire repository.
 3. **Place files together:** Ensure both `barcodes.xlsx` and `barcodes.py` are in the same directory.
 4. **Run the script:** Open a terminal or command prompt in the directory containing both files and run:
