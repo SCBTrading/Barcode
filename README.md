@@ -40,7 +40,7 @@ This Python script generates individual barcode labels in PDF format, suitable f
 3. **Place files together:** Ensure both `barcodes.xlsx` and `barcodes.py` are in the same directory.
 4. **Run the script:** Open a terminal or command prompt in the directory containing both files and run:
     ```
-    python barcodes.py
+    python3 barcodes.py
     ```
 
 5. **Output:** The script will create a new directory named `Barcode_Pdfs` and generate individual PDF barcode labels within it. Each label will have a 60mm x 30mm dimension and contain the barcode along with the corresponding numeric value from the spreadsheet.
