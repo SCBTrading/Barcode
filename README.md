@@ -1,4 +1,4 @@
-**README.md for Barcode Label Generator**
+
 
 ## Overview
 
@@ -59,4 +59,4 @@ You can customize the following aspects of the script by modifying its source co
 - This script is designed for thermal printers that can process PDF files directly.
 - For non-thermal printers, you may need to use a PDF-to-image converter and send the images to your printer.
 
-I hope this improved README.md file provides a clear and comprehensive guide for using your barcode label generator script!
+
